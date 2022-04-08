@@ -8,7 +8,9 @@
 ## Component
 
 Flask : When you call end_point, flask App trigger bussiness logic
+
 API Request : Rest API include fixed header format
+
 HMAC : NCP(Naver Cloud Platform) force to send a parameter which encrypted by MAC
 
 
